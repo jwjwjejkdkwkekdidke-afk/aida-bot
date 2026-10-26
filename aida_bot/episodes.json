@@ -1,0 +1,10 @@
+[
+  {"number": 1, "title": "Серия 1", "preview": "ep1.jpg", "video": ""},
+  {"number": 2, "title": "Серия 2", "preview": "ep2.jpg", "video": ""},
+  {"number": 3, "title": "Серия 3", "preview": "ep3.jpg", "video": ""},
+  {"number": 4, "title": "Серия 4", "preview": "ep4.jpg", "video": ""},
+  {"number": 5, "title": "Серия 5", "preview": "ep5.jpg", "video": ""},
+  {"number": 6, "title": "Серия 6", "preview": "ep6.jpg", "video": ""},
+  {"number": 7, "title": "Серия 7", "preview": "ep7.jpg", "video": ""},
+  {"number": 8, "title": "Серия 8", "preview": "ep8.jpg", "video": ""}
+]
